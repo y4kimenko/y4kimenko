@@ -32,9 +32,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 <div align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=y4kimenko" alt="GitHub Streak" /></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y4kimenko&layout=compact&theme=vision-friendly-white)](https://github.com/anuraghazra/github-readme-stats)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=y4kimenko&theme=github_dark&layout=compact&hide_border=true&langs_count=8&exclude_repo=social-network-analysis,Virtual-Classroom,Throwers,covid-simulation) ![Github Stats](https://github-readme-stats.vercel.app/api?username=y4kimenko&theme=github_dark&show_icons=true&layout=compact&hide_title=true&hide_rank=true&include_all_commits=true&hide_border=true&count_private=true&disable_animations=true)
 
 </div>
 
